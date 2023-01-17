@@ -1,2 +1,2 @@
 # Plots
-Various plots using matplotlib and seaborn libraries
+Various plots samples using plotly, matplotlib and seaborn libraries
